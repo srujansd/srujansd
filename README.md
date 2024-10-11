@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓I'm currently a Student<br>🌱 I’m currently learning Bachelors of Engineering in Computer Science <br>
+🧑‍🎓Persuing Bachelers in Computer Science and Engineering<br>🌱Data Science and Machine learning Enthusiast <br>
 
 
 ## 🌐 Socials:
